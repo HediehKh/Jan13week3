@@ -5,7 +5,7 @@ import styles from '@/styles/Home.module.css'
 import data from '../data/characters.json'
 import { useState } from 'react'
 import components from '../components'
-import Link from 'next/link'
+import Link from 'next/link'\
 
 
 
